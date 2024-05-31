@@ -57,7 +57,7 @@ The process of customizing the full-screen bot was not intuitive and required se
 
 ## YouTube Video
 
-For a detailed walkthrough of this project, watch the accompanying YouTube video: [Insert YouTube Video Link Here]
+For a detailed walkthrough of this project, watch the accompanying YouTube video: [How to Customize Botpress Full Screen](https://youtu.be/uk7lyx709mQ)
 
 ## Contributing
 
